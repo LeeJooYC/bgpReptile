@@ -1,0 +1,8 @@
+aiodns==3.0.0
+cachetools==5.3.3
+OTXv2==1.5.12
+OTXv2==1.5.12
+python-dotenv==1.0.1
+selenium==3.141.0
+timeout_decorator==0.5.0
+tqdm==4.65.0
